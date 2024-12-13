@@ -1,0 +1,4 @@
+0 - $.[*].friends[*].name
+1 - $.[*].friends[*].activities[*].hobbies
+2 - $.[*].friends[*].activities[1].night
+3 - $.[0].friends[*].hobbies[0]
